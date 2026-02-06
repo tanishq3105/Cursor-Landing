@@ -538,3 +538,47 @@ footer .copyright{
     font-weight: 400;
     letter-spacing: 0.14px;
 }
+
+a:hover {
+    opacity: 0.85;
+}
+
+.header-cta a:hover {
+    background-color: var(--color-theme-fg-02);
+}
+
+.header-cta a:first-child:hover {
+    background-color: var(--color-theme-card-hover-light-hex);
+}
+
+.nav-item:hover {
+    color: var(--color-theme-fg);
+}
+
+.hero-cta button:hover {
+    background-color: var(--color-theme-fg-02);
+}
+
+.logo-card:hover {
+    background-color: var(--color-theme-card-hover-hex);
+}
+
+.product-card:hover {
+    background-color: var(--color-theme-card-hover-hex);
+}
+
+.product-text a:hover {
+    gap: 8px;
+}
+
+.card:hover {
+    background-color: var(--color-theme-card-hover-hex);
+}
+
+.footer-card li:hover {
+    color: var(--color-theme-fg);
+}
+
+.changelog-card:hover {
+    background-color: var(--color-theme-card-hover-hex);
+}
