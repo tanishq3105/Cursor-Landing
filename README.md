@@ -3,6 +3,10 @@
 A static clone of the Cursor landing page built using **only HTML and CSS**.  
 This project focuses on layout accuracy, spacing, typography, and theming — without JavaScript, frameworks, or libraries.
 
+<img width="1895" height="860" alt="image" src="https://github.com/user-attachments/assets/2f0eb582-fab5-4e67-8098-3619e0851e1d" />
+<img width="1896" height="856" alt="image" src="https://github.com/user-attachments/assets/e42d39d3-7be9-4c7e-942e-2aeda7f06e23" />
+<img width="1895" height="855" alt="image" src="https://github.com/user-attachments/assets/4f3221d9-d9a3-44c6-949f-ff2b3e4f3b36" />
+<img width="1888" height="857" alt="image" src="https://github.com/user-attachments/assets/1974ec67-61a5-499d-a3c2-b670a9f7774e" />
 ---
 
 ## Sections Recreated
